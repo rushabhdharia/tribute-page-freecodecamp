@@ -1,0 +1,39 @@
+body{
+	background-color:white;
+}
+#main{
+	background-color:black; 
+	border-radius:2%;
+	}
+h1{
+	font-family:Shrikhand ;
+	color: #69f;
+	font-size: 80px;
+}
+h3{
+	font-family:Bungee;
+	color:white;
+}
+li{
+	color: white;
+	font-family:monospace;
+	font-size: 15px;
+}
+h2{
+	font-family:Lobster Two;
+	color: #69f;
+}
+.quote{
+	font-family: Lobster;
+	color: white;
+	font-size: 20px;
+	color: #69f;
+}
+img{
+	border-color: white;
+	border-width: 10px;
+	border-style: solid;
+}
+.footer{
+	color: #686868;
+}
